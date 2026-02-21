@@ -11,22 +11,22 @@
 
 ---
 
-## 👾 About
+## About
 
 Reverse engineering, game modding, and finding vulnerabilities in APIs and games. Been coding since I was 7.
 
-- 🔍 **Focus:** C++, C#, Unity, Cybersecurity, API Security
-- 💀 **Specialty:** Breaking things to understand how they work
-- 🧙‍♂️ **I hate reading Assembly**
-- 🎯 **Current:** Finding vulns, building mods, breaking games
+- **Focus:** C++, C#, Unity, Cybersecurity, API Security
+- **Specialty:** Breaking things to understand how they work
+- **I hate reading Assembly**
+- **Current:** Finding vulns, building mods, breaking games
 
-## 🛠️ Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Public Work
+### Public Work
 
 **[MerelyCapes](https://github.com/MerelyMiserable/MerelyCapes)**  
 Proxy-based cape injection for Minecraft Bedrock. Shows up in-game without touching any code.
@@ -40,7 +40,7 @@ Minecraft teleportation plugin with custom models
 </td>
 <td width="50%">
 
-### 🔒 Private Work
+### Private Work
 
 **LettuceHub**  
 Private mod hub for Lettuceware developers
@@ -52,7 +52,7 @@ Custom client for A Township Tale
 </tr>
 </table>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ```
 Languages:     C++, C#, Java, JavaScript, Python, Lua
@@ -61,7 +61,7 @@ Specialties:   Reverse Engineering, Game Modding, API Security, VR Development
 Tools:         IDA Pro, dnSpy, Fiddler
 ```
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
