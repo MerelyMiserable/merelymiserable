@@ -18,7 +18,7 @@ Reverse engineering, game modding, and finding vulnerabilities in APIs and games
 - **Focus:** C++, C#, Unity, Cybersecurity, API Security
 - **Specialty:** Breaking things to understand how they work
 - **I hate reading Assembly**
-- **Current:** Finding vulns, building mods, breaking games
+- **Current:** Contracted by aexlab.com to work on VAILVR Security Measures.
 
 ## Projects
 
